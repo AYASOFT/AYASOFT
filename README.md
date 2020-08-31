@@ -47,6 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beautiful Rotating Profile Card Bootstrap 4](https://www.youtube.com/watch?v=xRAAsgbX1vI)
+- [IRG 2020 EXCEL ADDON DZ ALGERIA.](https://www.youtube.com/watch?v=QbsJCVEx1Vo)
+- [Responsive Navigation Bar Bootstrap 4](https://www.youtube.com/watch?v=qYhBvicC03Q)
+- [Bootstrap 4 Registration Form](https://www.youtube.com/watch?v=rtEHitc81W0)
+- [Beautiful Bootstrap 4 Login Cards](https://www.youtube.com/watch?v=qKBdZ_D_HcY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/ayasoftnet)
