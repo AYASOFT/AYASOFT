@@ -44,6 +44,24 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://ayasoft.net)
+
+---
+
 [website]: https://www.ayasoft.net
 [twitter]: https://twitter.com/ayasoftnet
 [youtube]: https://youtube.com/ayasoftnet
