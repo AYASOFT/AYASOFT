@@ -47,6 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Beautiful Rotating Profile Card Bootstrap 4](https://www.youtube.com/watch?v=xRAAsgbX1vI)
 - [IRG 2020 EXCEL ADDON DZ ALGERIA.](https://www.youtube.com/watch?v=QbsJCVEx1Vo)
 - [Responsive Navigation Bar Bootstrap 4](https://www.youtube.com/watch?v=qYhBvicC03Q)
@@ -60,9 +61,14 @@
 
 ### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ➡️ [more blog posts...](https://ayasoft.net)
 
 ---
+
+  <img align="left" alt="AYASOFT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AYASOFT&show_icons=true&hide_border=true" />
 
 [website]: https://www.ayasoft.net
 [twitter]: https://twitter.com/ayasoftnet
