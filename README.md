@@ -45,9 +45,13 @@
 
 ---
 
-[website]: https://www.ayasoft.com
+[website]: https://www.ayasoftnet
 [twitter]: https://twitter.com/ayasoftnet
 [youtube]: https://youtube.com/ayasoftnet
 [instagram]: https://instagram.com/ayasoftnet
 [linkedin]: https://linkedin.com/in/ayasoftnet
 [patreon]: https://www.patreon.com/ayasoftnet
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
